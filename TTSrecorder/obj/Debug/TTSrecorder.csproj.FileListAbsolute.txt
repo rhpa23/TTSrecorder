@@ -1,0 +1,8 @@
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\bin\Debug\TTSrecorder.exe.config
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\obj\Debug\TTSrecorder.Form1.resources
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\obj\Debug\TTSrecorder.Properties.Resources.resources
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\obj\Debug\TTSrecorder.csproj.GenerateResource.Cache
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\bin\Debug\TTSrecorder.exe
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\bin\Debug\TTSrecorder.pdb
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\obj\Debug\TTSrecorder.exe
+c:\users\rudolf\documents\visual studio 2013\Projects\TTSrecorder\TTSrecorder\obj\Debug\TTSrecorder.pdb
